@@ -1,0 +1,36 @@
+PT. MAJU BERSAMA TEKNOLOGI
+Jl. Sudirman Kav. 52-53, Jakarta Selatan 12190
+NPWP: 01.234.567.8-091.000
+Telp: (021) 5555-1234
+
+========================================
+         FAKTUR INVOICE
+========================================
+
+Invoice No.  : INV-2026-0042
+Tanggal      : 12 November 2026
+Jatuh Tempo  : 12 Desember 2026
+
+Kepada Yth:
+PT. Karya Nusantara Digital
+Jl. Gatot Subroto No. 88, Jakarta Pusat
+
+----------------------------------------
+No.  Deskripsi                   Qty   Harga Satuan         Total
+----------------------------------------
+1.   Lisensi Software ERP         2    Rp  5.000.000       Rp  10.000.000
+2.   Jasa Implementasi            10   Rp  1.500.000       Rp  15.000.000
+3.   Pelatihan Pengguna (hari)    3    Rp  2.000.000       Rp   6.000.000
+4.   Dukungan Teknis 1 Tahun      1    Rp  3.600.000       Rp   3.600.000
+----------------------------------------
+
+Subtotal                                              Rp  34.600.000
+PPN 11%                                               Rp   3.806.000
+----------------------------------------
+TOTAL TAGIHAN                                         Rp  38.406.000
+
+Pembayaran melalui:
+Bank BCA - No. Rek: 123-456-7890
+A/N: PT. Maju Bersama Teknologi
+
+Terima kasih atas kepercayaan Anda.

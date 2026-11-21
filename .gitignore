@@ -1,0 +1,29 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite database files (users generate their own)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Test / temp files
+_test_*.py
+*.log
